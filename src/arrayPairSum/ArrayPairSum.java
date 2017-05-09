@@ -1,4 +1,4 @@
-package 算法;
+package arrayPairSum;
 
 import java.util.Arrays;
 
